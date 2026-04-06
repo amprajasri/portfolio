@@ -1,4 +1,4 @@
-# Alex Morgan — Portfolio
+# Mukunda Priya — Portfolio
 
 A modular, production-ready React portfolio built with Vite.  
 Refactored from a single JSX file into a clean, scalable project structure.
