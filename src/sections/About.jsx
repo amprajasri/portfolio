@@ -176,7 +176,7 @@ function About() {
         position: "relative",
         display: "flex",
         alignItems: "center",
-        justifyContent: "space-between",
+        justifyContent: "center",
         gap: 60,
         padding: "80px 60px",
         maxWidth: 1200,
@@ -292,8 +292,8 @@ function About() {
       >
         <div
           style={{
-            width: 300,
-            height: 300,
+            width: "min(320px, 80vw)",
+            height: "min(320px, 80vw)",
             borderRadius: "32px",
             overflow: "hidden",
             border: `3px solid ${C.accent}`,
