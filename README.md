@@ -15,7 +15,7 @@ Refactored from a single JSX file into a clean, scalable project structure.
 
 ```bash
 # 1. Clone or copy this project folder
-cd alex-morgan-portfolio
+cd Mukunda-priya-portfolio
 
 # 2. Install dependencies
 npm install
